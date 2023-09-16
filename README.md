@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nishantkalane
-- 👀 I’m interested in building and cotributing to new technologis 
+- 👀 I’m interested in building and contributing to new technologies 
 - 🌱 I’m currently learning computer science engineering 
 - 💞️ I’m looking to collaborate on startups 
 - 📫 How to reach me nishantnkalane@gmail.com 
