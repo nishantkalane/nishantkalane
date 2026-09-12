@@ -1,25 +1,96 @@
-<h1 align="center">Hi, I'm Nishant Kalane 👋</h1> <h3 align="center">Software Developer | AI · ML · LLMs · NLP · Data Analysis · Python</h3> <p align="center"> Final-year B.Tech CSE student building practical AI and software systems — from NLP pipelines to blockchain-backed data platforms.<br/> Open to SDE / AI-ML internships and research collaborations. </p> <p align="center"> <a href="https://www.linkedin.com/in/nishantnk/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a> <a href="mailto:nishantnkalane@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a> </p>
-🔭 What I work on
-NLP & LLMs — sentiment analysis, transformer-based inference, prompt engineering, RAG
-Backend & data systems — Python, Flask, Django, REST APIs, SQL
-Applied ML — scikit-learn, TensorFlow, feature engineering, model evaluation
-🚀 Featured projects
-Project	What it does	Stack
-NIETSPE Ledger	Blockchain-backed system for tamper-proof digital forensic evidence, moving records across hospital, police, lab, and court workflows with IPFS + hash verification	Python · Flask · SQL · IPFS · Ethereum
-Sentiment-Sense	Interactive NLP app for sentiment classification, from text preprocessing through model inference to a live dashboard	Python · TensorFlow · Hugging Face · Streamlit
-Distinctive Analytics LMS	Learning management system with coding challenges, quiz management, and multi-language support	Python · Django 4.2+
-Bus Crowding Prediction	Random Forest model predicting crowd levels on bus routes, using OCR-extracted ticket data	Python · Scikit-Learn · Tesseract OCR
+# Hi, I'm Nishant Kalane 👋
 
-(Repo links point to what's public today — ping me if you'd like access to any private work.)
+### Software Engineer | AI/ML · Backend · Data
 
-🛠️ Skills
+I build practical software systems using **Python, AI/ML, data, and backend technologies**, with experience spanning NLP applications, data platforms, blockchain systems, and research.
 
-Python SQL JavaScript Flask Django REST APIs Pandas NumPy TensorFlow Scikit-learn NLP Transformers Hugging Face LLMs RAG MySQL Git/GitHub Power BI
+Currently focused on **software engineering, AI engineering, backend development, and applied machine learning**.
 
-🏆 A few highlights
-11× National-level 1st Prize (AI, psychology, and technical research paper presentations)
-2× Hackathon winner (software development & robotics)
-President, Robotics & Technical Competition Club
-📫 Reach me
+---
 
-nishantnkalane@gmail.com · LinkedIn
+## 🧑‍💻 What I Work On
+
+- **AI & NLP** — sentiment analysis, transformers, LLM applications, RAG
+- **Backend & APIs** — Python, Flask, Django, REST APIs, SQL
+- **Applied ML** — scikit-learn, TensorFlow, feature engineering, model evaluation
+- **Data** — Pandas, NumPy, Power BI, data analysis and visualization
+- **Emerging Technologies** — Blockchain, Ethereum, Smart Contracts, IPFS
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Technologies |
+|---|---|---|
+| 🔐 **NIETSPE Ledger** | Blockchain-backed system for tamper-resistant digital forensic evidence across hospital, police, laboratory and court workflows. | Python · Flask · SQL · IPFS · Ethereum |
+| 🧠 **Sentiment-Sense** | Interactive NLP application for sentiment classification, model inference and real-time analysis. | Python · TensorFlow · Hugging Face · Streamlit |
+| 🌐 **Distinctive Analytics LMS** | Learning management system with coding challenges, quizzes and multi-language support. | Python · Django |
+| 🚌 **Bus Crowding Prediction** | Machine-learning system for predicting bus crowd levels using OCR-extracted ticket data. | Python · Scikit-learn · Tesseract OCR |
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages**  
+Python · SQL · JavaScript · Solidity
+
+**AI / ML**  
+Machine Learning · NLP · Transformers · Hugging Face · LLMs · RAG · TensorFlow · Scikit-learn
+
+**Backend**  
+Flask · Django · REST APIs · MySQL
+
+**Data**  
+Pandas · NumPy · Power BI · Data Analysis
+
+**Blockchain**  
+Ethereum · Smart Contracts · IPFS
+
+**Tools**  
+Git · GitHub · Streamlit · n8n
+
+---
+
+## 💼 Experience
+
+**AI Intern — Cluster Computing**  
+Worked on AI/ML-driven stock-market analysis, data processing, analytical modeling, REST APIs and workflow automation.
+
+**Research Assistant — Government College of Engineering**  
+Contributed to applied research involving AI-based expert systems and behavioral data.
+
+**Software Development Contributor — Distinctive Analytics**  
+Worked on web development, analytics and technical learning platforms.
+
+**Data Analysis Intern — J.P.A Associates**  
+Worked with Excel, SQL and dashboard-based data analysis.
+
+---
+
+## 🏆 Highlights
+
+- 🥇 **11× National-level First Prize** — AI, psychology and technical research presentations
+- 🏆 **2× Hackathon Winner** — Software Development & Robotics
+- 🤖 **Robotics & Technical Competition Club President**
+- 👥 Guided **20 students** in robotics competitions
+
+---
+
+## 🌱 Currently Exploring
+
+- AI Engineering
+- LLM Applications
+- Backend Development
+- Data Structures & Algorithms
+- Production-ready software systems
+
+---
+
+## 📫 Let's Connect
+
+**LinkedIn:** [linkedin.com/in/nishantnk](https://www.linkedin.com/in/nishantnk/)  
+**Email:** nishantnkalane@gmail.com
+
+---
+
+⭐ If you find one of my projects useful, feel free to explore the repository and leave a star.
